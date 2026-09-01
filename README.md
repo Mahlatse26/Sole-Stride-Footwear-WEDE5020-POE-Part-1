@@ -2,10 +2,12 @@
 
 Student information: ST10516045 
 
+//Organization Overview 
 1. Organization Overview 
 •	Introduction
 Sole & Stride footwear is a shoe brand that makes high-quality, durable, and stylish shoes at affordable prices. The brand offers shoes for sports, daily wear, and formal events. The official website will be built using HTML, CSS, and JavaScript in Visual Studio Code.
 
+//Website Objectives and Goals 
 2.	Website Goals and Objectives
 
 Website Goals
@@ -20,7 +22,8 @@ Website Objectives
 •	Make it easy for customers send messages through simple forms.
 •	Make the website easy to use computers, tablets, and phones. 
 
-Key Performance Indicators & Goals (Key features and functionality)
+//Key features and functionality
+Key Performance Indicators & Goals 
 
 •	Monthly Website Visitors: Reach 1,000 visitors per month in the first year.
 •	Product Inquiries: Increase customer questions by 30% over six months.
