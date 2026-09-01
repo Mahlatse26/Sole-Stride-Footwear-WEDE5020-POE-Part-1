@@ -67,6 +67,17 @@ Key Performance Indicators & Goals
 •	Mobile Compatibility: Ensure the site works perfectly on all mobile devices and laptops. (Garrett, 2011)
 •	Website Availability: Keep the website online 99% of the time. 
 
+
+// Website pages 
+4.	Proposed Website Pages 
+The website will have 6 simple pages:
+•	Home Page: Display a welcome banner, popular shoes, a brief introduction, and main investigation links.
+•	About Us Page: Shares the brand story, mission, materials used, and focus on sustainability.
+•	Products Page: Displays all shoes under three groups with prices and sizes.
+•	Services Pages: Explains extra services like fitting advice, shoe care guides, bulk orders, and product warranties.
+•	Enquiry Page: Contains simple forms where customers can ask about shoe sizes or stock availability.
+•	Contact Us Page: Shows shop addresses, phone numbers, email addresses, business hours, and a map.
+
 7.	Project Timeline
 
 Timeframe	Key Tasks
