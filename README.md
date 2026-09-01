@@ -28,6 +28,14 @@ Key Performance Indicators & Goals (Key features and functionality)
 •	Mobile Compatibility: Ensure the site works perfectly on all mobile devices and laptops. (Garrett, 2011)
 •	Website Availability: Keep the website online 99% of the time. 
 
+7.	Project Timeline
+8.	
+Timeframe	Key Tasks
+
+Week 1 (Early August)	Planning & Design: Define page layout, map site structure, and collect product photos.
+Weeks 2–4 (Mid–Late August)	Core Development: Write HTML layout, style pages with CSS, and add interactive JavaScript form features.
+Weeks 5–6 (Early September)	Testing & Launch: Deploy the site, test screen responsiveness across mobile devices, and fix any styling issues.
+Weeks 7–8 (Mid–Late September)	Review & Submission: Gather user feedback, optimize page speed, and complete final project submission.
 
 
 
