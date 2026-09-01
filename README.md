@@ -2,10 +2,46 @@
 
 Student Information: ST10516045 
 
+
+Table of contents
+Contents
+1. Research and planning	2
+1.1 Website Proposal 1 chosen	2
+1.	Organisation Overview	2
+•	Introduction	2
+•	Brief History of the Organisation	2
+•	Mission statement	3
+•	Vison Statement	3
+•	Target Audience	3
+2.	Website Goals and Objectives	3
+Website Goals	3
+Website Objectives	3
+Key Performance Indicators & Goals	3
+3.	Current Website Analysis	4
+•	Strengths:	4
+•	Weaknesses:	4
+•	Improvements:	4
+4.	Proposed Website Pages	4
+The website will have 6 simple pages:	4
+5.	Design and User Experience (UX)	4
+Fonts	5
+User Experience Steps	5
+6.	Technical Requirements	5
+7.	Project Timeline	5
+8.	Estimated Budget	5
+Bibliography	7
+Conclusion	7
+
+
 //Organization Overview 
 1. Organization Overview 
-•	Introduction
+Introduction
 Sole & Stride footwear is a shoe brand that makes high-quality, durable, and stylish shoes at affordable prices. The brand offers shoes for sports, daily wear, and formal events. The official website will be built using HTML, CSS, and JavaScript in Visual Studio Code.
+
+
+// History of the organization
+Brief History of the Organization
+Shoe designer Marcus Vance started Sole & Stride Footwear in 2025 to give customers comfortable, modern, and strong shoes. It began as a small shop selling sneakers and leather boots. The business grew quickly because customers loved the products. (Education., 2022)
 
 //Website Objectives and Goals 
 2.	Website Goals and Objectives
@@ -60,6 +96,8 @@ Sitemap
                       │
                   Contact Us
                 (contact.html)
+
+
 
 
   References 
