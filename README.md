@@ -94,6 +94,8 @@ Testing & Launch: Deploy the site, test screen responsiveness across mobile devi
 Weeks 7–8 (Mid–Late September)	
 Review & Submission: Gather user feedback, optimize page speed, and complete final project submission.
 
+
+
 SITEMAP
                            Home
                        (index.html)
