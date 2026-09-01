@@ -27,3 +27,35 @@ Key Performance Indicators & Goals (Key features and functionality)
 •	Page Loading Speed: Keep loading time under 3 seconds so users do not leave. (Nielsen, 2020)
 •	Mobile Compatibility: Ensure the site works perfectly on all mobile devices and laptops. (Garrett, 2011)
 •	Website Availability: Keep the website online 99% of the time. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
