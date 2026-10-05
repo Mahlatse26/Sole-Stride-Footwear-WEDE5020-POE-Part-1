@@ -1,6 +1,6 @@
 # Sole-Stride-Footwear-WEDE5020-POE-Part-1
 
-Student Information: ST10516045 
+# Student Information: ST10516045 
 
 
 Table of contents
@@ -32,13 +32,13 @@ User Experience Steps	5
 Bibliography	7
 Conclusion	7
 
-
+# Organization Overview
 //Organization Overview 
 1. Organization Overview 
 Introduction
 Sole & Stride footwear is a shoe brand that makes high-quality, durable, and stylish shoes at affordable prices. The brand offers shoes for sports, daily wear, and formal events. The official website will be built using HTML, CSS, and JavaScript in Visual Studio Code.
 
-
+# History of the organization
 // History of the organization
 Brief History of the Organization
 Shoe designer Marcus Vance started Sole & Stride Footwear in 2025 to give customers comfortable, modern, and strong shoes. It began as a small shop selling sneakers and leather boots. The business grew quickly because customers loved the products. (Education., 2022)
@@ -95,7 +95,7 @@ Weeks 7–8 (Mid–Late September)
 Review & Submission: Gather user feedback, optimize page speed, and complete final project submission.
 
 
-
+# SiteMap
 SITEMAP
                            Home
                        (index.html)
@@ -113,7 +113,7 @@ SITEMAP
 
 
 
-  References 
+  # References 
 
   Bibliography
 AI, O., 2026. Gemini. [Online] 
