@@ -6,6 +6,7 @@ body {
     max-width: 900px;
     margin: 0 auto;
     padding: 20px;
+    text-align: left
 }
 
 /* Header & Navigation */
@@ -47,7 +48,7 @@ h3 {
 
 /* Footer */
 footer {
-    text-align: left;
+    text-align: center;
     font-size: 0.9em;
     color: #7f8c8d;
     margin-top: 20px;
