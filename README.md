@@ -135,9 +135,9 @@ Norman, D., 2013. The Design of Everyday Things. Revised ed. New York: Basic Boo
 
 
 
-Sole-Stride-Footwear-WEDE5020-POE-Part-2
+# Sole-Stride-Footwear-WEDE5020-POE-Part-2
 
-CSS CODE OFE THE WEBSITE
+# CSS CODE OFE THE WEBSITE
 
 /* The base styles */
 body {
