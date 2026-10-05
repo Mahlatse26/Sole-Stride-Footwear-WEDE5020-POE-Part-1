@@ -137,6 +137,101 @@ Norman, D., 2013. The Design of Everyday Things. Revised ed. New York: Basic Boo
 
 Sole-Stride-Footwear-WEDE5020-POE-Part-2
 
+CSS CODE OFE THE WEBSITE
+
+/* The base styles */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    color: #333333;
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+/* Ensure all images scale fluidly and stay visible */
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    object-fit: cover;
+}
+
+/* Specific styling for collection grid images in the website */
+.collection-grid article img {
+    width: 100%;
+    height: 220px;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    background-color: #f1f5f9; /* Fallback gray box while image loads */
+}
+
+/* Header logo display rules */
+.logo-container img {
+    margin: 0 auto 10px;
+    max-width: 200px;
+}
+
+/* The header and navigation section */
+header h1 {
+    color: #1a252f;
+    margin-bottom: 10px;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    gap: 15px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #2c3e50;
+    font-weight: bold;
+}
+
+nav a:hover {
+    color: #e67e22;
+}
+
+/* Headings section */
+h2 {
+    color: #2c3e50;
+    border-bottom: 2px solid #e67e22;
+    padding-bottom: 5px;
+    margin-top: 25px;
+}
+
+h3 {
+    color: #34495e;
+    margin-top: 15px;
+    margin-bottom: 5px;
+}
+
+/* The footer Line */
+footer {
+    text-align: center;
+    font-size: 0.9em;
+    color: #7f8c8d;
+    margin-top: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
