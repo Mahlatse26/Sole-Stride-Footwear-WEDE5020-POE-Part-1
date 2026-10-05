@@ -1,4 +1,4 @@
-# Sole-Stride-Footwear-WEDE5020-POE-Part-1
+# Sole-Stride-Footwear-WEDE5020-POE-Part
 
 # Student Information: ST10516045 
 
